@@ -1,5 +1,13 @@
-##Linear Regression
+## Install 
 
-`Y = a X + b `  <br />
-**Y** - dependent variable  <br />
-**X** - independent variable  <br />
+1. Install Pre-requisites <b/>
+
+`sudo ./install_libs.sh ` <b/>
+
+`sudo ./install_gstreamer.sh `<b/>
+
+2. Install OpenCV
+
+`sudo apt remove libopencv*`<b/>
+
+
